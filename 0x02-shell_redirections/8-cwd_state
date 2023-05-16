@@ -1,0 +1,7 @@
+#!/bin/bash
+
+file="ls_cwd_content"
+
+# Run the ls -la command and redirect the output to the file
+ls -la > "$file"
+

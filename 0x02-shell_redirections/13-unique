@@ -1,0 +1,4 @@
+#!/bin/bash
+IFS=' ' read -ra words
+printf '%s\n' "${words[@]}" | sort | uniq -u -c | awk '$1 == 1 { print $2 }'
+
