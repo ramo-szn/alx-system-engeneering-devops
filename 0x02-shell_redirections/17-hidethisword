@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 grep -i -v "bin" /etc/passwd
+=======
+grep -v "bin" /etc/passwd
+>>>>>>> origin/master
 

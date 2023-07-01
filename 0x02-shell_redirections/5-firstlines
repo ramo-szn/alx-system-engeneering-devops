@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 head -n 10 /etc/passwd
 
+=======
+/etc/passwd: No such file or directory
+>>>>>>> origin/master

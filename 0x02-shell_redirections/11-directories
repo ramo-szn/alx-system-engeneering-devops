@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
 #!/bin/bash
 find . -type d -not -name '.' | wc -l
+=======
+#!/bin/bash
+count=$(find . -type d | wc -l)
+((count -= 2))
+echo "Number of directories and subdirectories (including hidden directories): $count"
+>>>>>>> origin/master
 
