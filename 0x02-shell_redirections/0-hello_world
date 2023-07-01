@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-
 #!/bin/bash
 echo "Hello, World"
-
-=======
-#!/bin/bash
-echo 'Hello, World'
->>>>>>> origin/master
