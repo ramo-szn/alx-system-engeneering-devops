@@ -1,10 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 rev
-=======
-#!/bin/bash#!/bin/bash
-read input
-output=$(echo "$input" | rev)
-echo "$output"
->>>>>>> origin/master
-

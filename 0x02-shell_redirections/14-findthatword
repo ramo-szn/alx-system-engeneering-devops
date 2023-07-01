@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 grep -i "root" /etc/passw
-
-=======
-grep "root" /etc/root
->>>>>>> origin/master

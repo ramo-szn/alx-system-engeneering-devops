@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 cat /etc/passwd
-
-=======
-/etc/passwd: No such file or directory
->>>>>>> origin/master
